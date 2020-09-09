@@ -1,0 +1,29 @@
+Package: com.greg0109.tellsiri
+Name: TellSiri
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Control siri via notifications with TellSiri!
+Maintainer: Greg0109
+Author: Greg0109
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/com.greg0109.tellsiri_1.0.1_iphoneos-arm.deb
+Size: 5808
+MD5sum: eb04bcb1ae4ae582afb7c83a8db0fc28
+SHA1: fd843f48e403a722aae1fed5fa640519c846197c
+SHA256: 417cfd1306725c851a70a345bd3f923ec9201d6d9821f4332681b9fa0e138638
+
+Package: com.greg0109.callhider
+Name: CallHider
+Version: 1.0.6
+Architecture: iphoneos-arm
+Description: Hide the caller ID for whatever reason you want to do it!
+Maintainer: Greg0109
+Author: Greg0109
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Filename: debs/CallHider_v.1.0.6.deb
+Size: 33844
+MD5sum: 60420ac23b6725ee91de98521e5b2164
+SHA1: 05a972a5cfcd347f67a3954b82dbdc6a545c1069
+SHA256: 1882f8707c65603b62d5cc23fd141f7f6b5966f873c40b15315a67c12abc1ac0
